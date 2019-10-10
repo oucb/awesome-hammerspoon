@@ -34,7 +34,6 @@ if not hspoon_list then
         "HCalendar",
         "HSaria2",
         "HSearch",
-        "SpeedMenu",
         "WinWin",
         "FnMate",
     }
@@ -72,7 +71,7 @@ if not hsapp_list then
         {key = 'c', name = 'Google Chrome'},
         {key = 'o', name = 'Postico'},
         {key = 'p', name = 'PyCharm'},
-        {key = 'm', name = 'Cmd Markdown'},        
+        {key = 'm', name = 'MWeb'},
         {key = 's', name = 'Safari'},
         {key = 't', name = 'Postman'},
         {key = 'v', id = 'com.apple.ActivityMonitor'},
